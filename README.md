@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ParasJewellers Design Gallery**
 
-- 👨‍💻 All of my projects are available at [bharatchoudhary.site](bharatchoudhary.site)
+- 👨‍💻 All of my projects are available at [[bharatchoudhary.site](https://bharat7021.github.io/Portfolio/)]
 
 - 💬 Ask me about **java, css, etc**
 
